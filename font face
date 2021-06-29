@@ -1,0 +1,8 @@
+@font-face {font-family: "FutBo";
+    src: url("https://saad.cco.edu.pk/Seniors-Studio-BelastoriaScript(3).eot"); /* IE9*/
+    src: url("https://saad.cco.edu.pk/Seniors-Studio-BelastoriaScript(3).eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("https://saad.cco.edu.pk/Seniors-Studio-BelastoriaScript(3).woff2") format("woff2"), /* chrome firefox */
+    url("https://saad.cco.edu.pk/Seniors-Studio-BelastoriaScript(3).woff") format("woff"), /* chrome firefox */
+    url("https://saad.cco.edu.pk/Seniors-Studio-BelastoriaScript(3).ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+    url("https://saad.cco.edu.pk/Seniors-Studio-BelastoriaScript(3).svg#FutBo") format("svg"); /* iOS 4.1- */
+}
